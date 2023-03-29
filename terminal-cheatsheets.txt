@@ -1,0 +1,10 @@
+cd change directory -->
+cd.. --> visszalép eggyel feljebb
+cd myfolder --> myfolderbe vált (ha az első + Tab --> kiegészíti)
+felfele nyíl --> visszahozza a régi parancsokat
+cd development\ -->
+cd.\ + TAB lenyomása --> kiegészíti és odalép
+mkdir könyvtár létrehozás
+ni new item --> ni filename.extension (fájlnévben nincs szóköz)
+ls --> listázza a working directory tartalmát
+ls -force --> mutatja a rejtett fájlokat is
